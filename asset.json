@@ -1,15 +1,16 @@
+Hashed Assets: 
 {
   "Version": 19,
   "Assets": [
     {
       "Url": "https://raw.githubusercontent.com/OGUbanana/DalamudAssets/main/UIRes/serveropcode.json",
       "FileName": "UIRes/serveropcode.json",
-      "Hash": "30135AF8FCCDFC5883D715E556F11178E2C82258"
+      "Hash": "E856E2CDF5F1A182F530ACC2FE173A5B4065A475"
     },
     {
       "Url": "https://raw.githubusercontent.com/OGUbanana/DalamudAssets/main/UIRes/clientopcode.json",
       "FileName": "UIRes/clientopcode.json",
-      "Hash": "AE0C7839C5691C9359DF21206285678F83233ADB"
+      "Hash": "B755388875A79AA6B481E9ECDCAC3D4FA18FD0C8"
     },
     {
       "Url": "https://raw.githubusercontent.com/OGUbanana/DalamudAssets/main/UIRes/bannedplugin.json",
